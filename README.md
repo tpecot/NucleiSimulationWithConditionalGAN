@@ -8,4 +8,4 @@ These Jupyter notebooks allow to simulate fluorescence images showing nuclei (or
 
 # Citation
 Please cite our paper if you use our method: <br> 
-Thierry Pécot, Alexander Alekseyenko and Kristin Wallace (2021): [A deep learning segmentation strategy that minimizes the amount of manually annotated images](https://f1000research.com/articles/10-256)
+Thierry Pécot, Alexander Alekseyenko and Kristin Wallace (2022): [A deep learning segmentation strategy that minimizes the amount of manually annotated images](https://f1000research.com/articles/10-256)
